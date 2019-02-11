@@ -10,6 +10,6 @@
 </body>
 </html>
 <?php
-include 'tracker-include.php';
+include 'php-analytics--include.php';
 $tracker->trackPage();
 ?>

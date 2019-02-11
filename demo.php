@@ -10,7 +10,7 @@
 </body>
 </html>
 <?php
-include 'tracker-include.php';
+include 'php-analytics--include.php';
 $tracker->setInstallationDir('/php-analytics/');
 $tracker->trackPage();
 ?>
